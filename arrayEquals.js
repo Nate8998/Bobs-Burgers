@@ -1,2 +1,0 @@
-arrayEquals
-console.log("hello");
