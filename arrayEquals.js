@@ -1,1 +1,2 @@
 arrayEquals
+console.log("hello");
