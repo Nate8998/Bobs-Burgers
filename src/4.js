@@ -1,4 +1,4 @@
-/*const findHighestInArray = inputArray => {
+const findHighestInArray = inputArray => {
    let highest = Number.NEGATIVE_INFINITY;
 
    Se logic to find the highest number in inputArray

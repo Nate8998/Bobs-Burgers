@@ -1,3 +1,6 @@
+const { assertEquals } = require("./assertEquals");
+const { addItem }
+
 //Arrange
 testName = 'test 1 - add item';
 input = [items];
